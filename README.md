@@ -2,6 +2,6 @@
 
 A Toto List made with React and Firebase
 
-## Example
+## Tutorial
 
-https://apps.gruman.co/todos
+https://gruman.co/react-firebase-todo-list-with-authentication/
