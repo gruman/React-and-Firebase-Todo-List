@@ -116,6 +116,7 @@ function App() {
                             <div>{
                               todos[i].todo}
                               <Button
+                              variant="danger"
                               style={{float: "right"}}
                                 onClick={() => deleteTodo(i)}>
                                 Delete</Button>
